@@ -78,7 +78,7 @@ $(function() {
 
 
   // I wonder what this is for? 
-  $('#secretSeal').on('click', ()=>{score =89978798978}); 
+  $('#secretSeal').on('click', ()=>{score ='4782'}); 
 
 });
 //↑ends doc ready f/n
